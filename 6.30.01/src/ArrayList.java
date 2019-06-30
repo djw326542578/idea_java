@@ -10,6 +10,7 @@ public class ArrayList extends AbstractList implements List {
     }
 
     @Override
+
     protected void insertInternal(int index, int val) {
         ensureCapacity();
 

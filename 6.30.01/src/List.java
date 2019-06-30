@@ -1,6 +1,7 @@
 /**
  * 定义一个线性表的接口
  */
+
 public interface List {
     /**
      * 头部插入

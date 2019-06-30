@@ -15,6 +15,7 @@ public abstract class AbstractList implements List {
      */
     protected abstract void insertInternal(int index, int val);
 
+
     @Override
     public void pushFront(int val) {
         insertInternal(0, val);
