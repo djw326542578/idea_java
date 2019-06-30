@@ -3,7 +3,7 @@
  * 线性表的迭代
  */
 public interface Iterator {
-    
+
     /**
      * 判断迭代器是否走到了最后
      * @return true 表示没到最后，false 表示到最后了
