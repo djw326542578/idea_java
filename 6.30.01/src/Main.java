@@ -16,6 +16,6 @@ public class Main {
 
     public static void main(String[] args) {
         testList(new ArrayList(10));
-       // testList(new LinkedList());
+       //testList(new LinkedList());
     }
 }
